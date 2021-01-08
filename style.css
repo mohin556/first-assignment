@@ -1,12 +1,14 @@
 body{ font-family: 'Roboto', sans-serif;}
-h1{ font-size: 50px;}
+h1{ font-size: 47
+    px;}
 .color-highlight{ color: rgba(11, 11, 122, 0.685);}
 .name{color: coral;}
 .half-width{
-    width:45%;
     float:left;
-    margin-left: 2%;
+    width:46%;
+    margin:auto;
     padding-left: 1%;
+    border:0;
 }
 .half-width img {
     width:50%;
@@ -19,3 +21,15 @@ h1{ font-size: 50px;}
     font-weight: 700;
     color: white;
 }
+.color2{color: rgb(47, 47, 194);}
+.text{text-align:center;
+     float:right;}
+#last{height:600px;display:block;
+}
+.shape{margin:auto;
+}
+.image{ float:left;}
+.clr1{color: crimson;}
+.clr2{color: rgba(62, 62, 180, 0.822);}
+.end{width:50%;
+height:auto;}
